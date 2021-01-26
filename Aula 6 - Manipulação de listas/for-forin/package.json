@@ -1,0 +1,15 @@
+{
+  "name": "project-02",
+  "version": "1.0.0",
+  "description": "Async/Await",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node for-forin-forof.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
